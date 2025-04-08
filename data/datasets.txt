@@ -1,0 +1,5 @@
+Link para datasets utilizados - Amostras de 100000 linhas do Sistema de Informação sobre Nascidos Vivos – Sinasc
+'amostra2020'
+https://drive.google.com/file/d/1GcpLgvhDCqw7bPZ4Eps8v0YQzjRzhyoW/view?usp=sharing
+'amostra2023'
+https://drive.google.com/file/d/1CFZbXKS2izZEb3rDYRkeDYhdEcNhpEd7/view?usp=sharing
